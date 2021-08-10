@@ -115,7 +115,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: '宮乃やみ'
+      title: '宮乃やみの部屋(建設中)'
     }
   }
 }
