@@ -1,13 +1,10 @@
 <template>
   <v-row>
     <v-col class="text-center">
-      <img
-        src="/v.png"
-        alt="Vuetify.js"
-        class="mb-5"
-      >
       <blockquote class="blockquote">
-        &#8220;自己紹介とか書く
+        <p>自己紹介とか書く</p>
+        <p>Youtube: <a href="https://www.youtube.com/c/miyanoyami" target="_blank">https://www.youtube.com/c/miyanoyami</a></p>
+        <p>Twitter: <a href="https://twitter.com/miyanoyami83" target="_blank">https://twitter.com/miyanoyami83</a></p>
         <footer>
         </footer>
       </blockquote>
