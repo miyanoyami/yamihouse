@@ -98,19 +98,24 @@ export default {
       items: [
         {
           icon: 'mdi-apps',
-          title: 'Welcome',
+          title: 'Top',
           to: '/'
         },
         {
+          icon: 'mdi-account-circle',
+          title: 'Introduction',
+          to: '/introduction'
+        },
+        {
           icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
+          title: 'Gallery',
+          to: '/gallery'
         }
       ],
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'Vuetify.js'
+      title: '宮乃やみ'
     }
   }
 }

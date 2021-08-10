@@ -7,11 +7,8 @@
         class="mb-5"
       >
       <blockquote class="blockquote">
-        &#8220;First, solve the problem. Then, write the code.&#8221;
+        &#8220;自己紹介とか書く
         <footer>
-          <small>
-            <em>&mdash;John Johnson</em>
-          </small>
         </footer>
       </blockquote>
     </v-col>

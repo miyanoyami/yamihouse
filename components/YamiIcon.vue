@@ -1,8 +1,8 @@
 <template>
   <img
-    class="VuetifyLogo"
-    alt="Vuetify Logo"
-    src="/vuetify-logo.svg"
+    class="YamiIcon"
+    alt="Yami Icon"
+    src="/yami.jpeg"
   >
 </template>
 
