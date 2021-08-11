@@ -58,7 +58,7 @@
         <v-simple-table>
           <thead>
             <tr>
-              <th colspan="2">Audio</th>
+              <th colspan="2">周辺機器</th>
             </tr>
           </thead>
           <tbody>
@@ -73,6 +73,14 @@
             <tr>
               <th>ミキサー</th>
               <td>BEHRINGER XENYX 1002</td>
+            </tr>
+            <tr>
+              <th>キャプボ①</th>
+              <td>Live Gamer EXTREME 2</td>
+            </tr>
+            <tr>
+              <th>キャプボ②</th>
+              <td>Live Gamer Portable 2 PLUS</td>
             </tr>
           </tbody>
         </v-simple-table>

@@ -83,13 +83,18 @@ export default {
         },
         {
           icon: 'mdi-account-circle',
-          title: 'Introduction',
-          to: '/introduction'
+          title: 'Profile',
+          to: '/profile'
         },
         {
           icon: 'mdi-wrench',
           title: 'System',
           to: '/system'
+        },
+        {
+          icon: 'mdi-gamepad-square',
+          title: 'Game',
+          to: '/game'
         },
         {
           icon: 'mdi-bank',
