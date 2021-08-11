@@ -1,5 +1,5 @@
 <template>
-  <v-app dark>
+  <v-app>
     <v-navigation-drawer
       v-model="drawer"
       :mini-variant="miniVariant"
@@ -30,7 +30,11 @@
       app
     >
       <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
-      <v-toolbar-title v-text="title" />
+      <v-toolbar-title>
+        <router-link to="/" class="toolbar-title" style="color:inherit; text-decoration: none;">
+          Miyano Yami
+        </router-link>
+      </v-toolbar-title>
       <v-spacer />
       <v-btn
         icon
@@ -63,7 +67,7 @@
       :absolute="!fixed"
       app
     >
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span>&copy; 2021 Miyano Yami</span>
     </v-footer>
   </v-app>
 </template>
@@ -97,15 +101,25 @@ export default {
           to: '/game'
         },
         {
+          icon: 'mdi-star-outline',
+          title: 'Skill',
+          to: '/skill'
+        },
+        {
           icon: 'mdi-bank',
           title: 'Gallery',
           to: '/gallery'
         }
       ],
       miniVariant: false,
-      rightDrawer: false,
-      title: 'MiyanoYami'
+      rightDrawer: false
     }
   }
 }
 </script>
+
+<style scoped>
+.v-application {
+  background-color: #fffbfb
+}
+</style>

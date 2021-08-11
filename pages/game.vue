@@ -2,18 +2,25 @@
   <v-container>
     <v-row>
       <v-col class="text-center">
-        <p class="h2">ゲームについて </p>
+        <p class="text-h5">
+          ゲームについて
+        </p>
       </v-col>
     </v-row>
     <v-row>
       <v-col class="text-center">
         <p>コンシューマーゲームを中心に幅広くカジュアルに遊んでます。</p>
         <p>
-          PCゲーはあんまりやってないけど興味あり、スマホゲームはあまりやりません。
+          PCゲームはあまりやってないけど興味あります。
+        </p>
+        <p>
+          スマホゲームはあまりやりません。
         </p>
         <p>あと実はボードゲームが好きです。</p>
 
-        <p class="h3">よくやってるゲーム</p>
+        <p class="text-h6">
+          よくやってるゲーム
+        </p>
         <v-card class="mx-auto" max-width="400" tile>
           <v-list-item two-line>
             <v-list-item-content>
@@ -40,4 +47,3 @@
     </v-row>
   </v-container>
 </template>
-

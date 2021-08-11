@@ -1,17 +1,17 @@
 <template>
-  <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="6">
-      <v-card class="logo py-4 d-flex justify-center">
-        <YamiIcon />
-      </v-card>
-      <v-card>
-        <v-card-title class="headline">
-          MiyanoYami's website
-        </v-card-title>
-        <v-card-text>
-          <p>なんかかく</p>
-        </v-card-text>
-      </v-card>
-    </v-col>
-  </v-row>
+  <v-container>
+    <v-row justify="center" align="center">
+      <YamiIcon />
+    </v-row>
+    <v-row justify="center" align="center">
+      <v-col class="text-center">
+      <blockquote class="blockquote">
+        <p>宮乃やみの公式Webサイトです。</p>
+        <p>自己紹介やイラスト、開発したツールなどを掲載していく予定です。</p>
+        <p>&nbsp;</p>
+        <p>......というのは建前で、フロントエンド開発の指鳴らしです。</p>
+      </blockquote>
+      </v-col>
+      </v-row>
+  </v-container>
 </template>

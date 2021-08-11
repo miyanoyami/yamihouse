@@ -8,13 +8,8 @@
 
 <style>
 .YamiIcon {
-  height: 320px;
-  width: 320px;
-}
-
-@keyframes turn {
-  100% {
-    transform: rotateY(0deg);
-  }
+  height: 160px;
+  width: 160px;
+  border-radius: 50%;
 }
 </style>

@@ -1,8 +1,8 @@
 <template>
   <v-row>
     <v-col class="text-center">
+      <p class="text-h5">イラスト置き場</p>
       <blockquote class="blockquote">
-        絵とか貼っていきたいね
 
         <!-- component -->
         <viewer :images="images">
@@ -24,8 +24,8 @@ export default {
   data () {
     return {
       images: [
-        '/yami.jpeg',
-        '/yami_full.png'
+        'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_b.png',
+        'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_full.png'
       ]
     }
   },

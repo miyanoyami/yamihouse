@@ -2,7 +2,7 @@
   <img
     class="YamiFull"
     alt="Yami Full"
-    src="/yami_full.png"
+    src="https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_full.png"
   >
 </template>
 

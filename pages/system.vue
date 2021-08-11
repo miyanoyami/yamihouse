@@ -2,7 +2,7 @@
   <v-container>
     <v-row>
       <v-col class="text-center">
-        <p class="h2">配信・製作機材</p>
+        <p class="text-h5">配信・製作機材</p>
       </v-col>
     </v-row>
     <v-row>
