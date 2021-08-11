@@ -10,25 +10,7 @@
         </v-card-title>
         <v-card-text>
           <p>なんかかく</p>
-          <hr class="my-3">
-          <a
-            href="https://github.com/miyanoyami/yamihouse"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            MiyanoYami GitHub
-          </a>
         </v-card-text>
-        <v-card-actions>
-          <v-spacer />
-          <v-btn
-            color="primary"
-            nuxt
-            to="/inspire"
-          >
-            Continue
-          </v-btn>
-        </v-card-actions>
       </v-card>
     </v-col>
   </v-row>
