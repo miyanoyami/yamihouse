@@ -25,7 +25,8 @@ export default {
     return {
       images: [
         'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_b.png',
-        'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_full.png'
+        'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_full.png',
+        'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_stella_20210813.jpeg'
       ]
     }
   },
