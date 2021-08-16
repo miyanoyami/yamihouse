@@ -16,6 +16,9 @@
         </p>
 
         <p>特技はプログラミングとボイチェンです</p>
+
+        <p>キャラクターデザイン: ハタハタ様 <a href="https://twitter.com/taritari1648" target="_blank">@taritari1648</a></p>
+        <p>ロゴ・配信画面デザイン: 2様 <a href="https://twitter.com/2ni_work" target="_blank">@2ni_work</a></p>
         <footer></footer>
       </blockquote>
     </v-col>

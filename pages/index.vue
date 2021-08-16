@@ -1,7 +1,11 @@
 <template>
   <v-container>
+    <v-row>&nbsp;</v-row>
     <v-row justify="center" align="center">
       <YamiIcon />
+    </v-row>
+    <v-row justify="center" align="center">
+      <YamiLogo />
     </v-row>
     <v-row justify="center" align="center">
       <v-col class="text-center">
