@@ -3,13 +3,9 @@
     <v-col class="text-center">
       <p class="text-h5">イラスト置き場</p>
       <blockquote class="blockquote">
-
-        <!-- component -->
         <viewer :images="images">
           <img v-for="src in images" :key="src" :src="src" width="180px">
         </viewer>
-
-        <footer></footer>
       </blockquote>
     </v-col>
   </v-row>
