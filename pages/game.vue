@@ -15,7 +15,7 @@
             <v-list-item two-line>
               <v-list-item-content>
                 <v-list-item-title>スプラトゥーン2</v-list-item-title>
-                <v-list-item-subtitle>全ルールX22</v-list-item-subtitle>
+                <v-list-item-subtitle>オールX（最高X2370）</v-list-item-subtitle>
               </v-list-item-content>
             </v-list-item>
             <v-list-item two-line>
