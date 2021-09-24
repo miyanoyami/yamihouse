@@ -25,7 +25,8 @@ export default {
         'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_stella_20210813.jpeg',
         'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_ibara_20210818.jpeg',
         'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_arika_20210822.png',
-        'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_stella_20210922.png'
+        'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_stella_20210922.png',
+        'https://miyanoyami-static.s3.ap-northeast-1.amazonaws.com/gallery/yami_eir_20210924.png'
       ]
     }
   },
